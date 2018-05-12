@@ -38,6 +38,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Sophie_Rostopchine%2C_comtesse_de_S%C3%A9gur
     - http://en.wikipedia.org/wiki/Sophie_Rostopchine%2C_Comtesse_de_S%C3%A9gur
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14247#Nouveaux-contes-de-f-es-pour-les-petits-enfants
 gutenberg_bookshelf: FR Jeunesse
 gutenberg_issued: '2004-12-03'
 gutenberg_type: Text

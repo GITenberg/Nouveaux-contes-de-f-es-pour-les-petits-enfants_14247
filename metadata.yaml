@@ -1,0 +1,56 @@
+_repo: Nouveaux-contes-de-f-es-pour-les-petits-enfants_14247
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Doré, Gustave
+    aliases:
+    - Doré, Louis Christophe Paul Gustave
+    - Dore, Gustave
+    - Doré, Louis Auguste Gustave
+    - Dorè, Gustave
+    birthdate: 1832
+    deathdate: 1883
+    gutenberg_agent_id: '1896'
+    url: http://www.gutenberg.org/2009/agents/1896
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Doré
+  - agent_name: Didier, Jules
+    birthdate: 1831
+    deathdate: 1892
+    gutenberg_agent_id: '39575'
+    url: http://www.gutenberg.org/2009/agents/39575
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ségur, Sophie, comtesse de
+    aliases:
+    - Ségur, Sophie Rostopchine, comtesse de
+    - Segur, Comtesse de
+    - De Ségur, Sophie, comtesse
+    - Rostopchina, Sofiya Feodorovna
+    - Ségur, Comtesse de
+    birthdate: 1799
+    deathdate: 1874
+    gutenberg_agent_id: '3980'
+    url: http://www.gutenberg.org/2009/agents/3980
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Sophie_Rostopchine%2C_comtesse_de_S%C3%A9gur
+    - http://en.wikipedia.org/wiki/Sophie_Rostopchine%2C_Comtesse_de_S%C3%A9gur
+description: ''
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2004-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14247'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcsh 'Tales -- France'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+title: Nouveaux contes de fées pour les petits enfants
+url: http://www.gutenberg.org/ebooks/14247
